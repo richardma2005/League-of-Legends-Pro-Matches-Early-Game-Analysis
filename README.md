@@ -1,2 +1,2 @@
-# League-of-Legends-Professional-Matches-Early-Game-Analysis
-Final Project for DSC 80
+# How Much Does the Early Game Affect the Results of Pro League of Legends Matches?
+**By**: Richard Ma
